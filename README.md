@@ -5,9 +5,9 @@ This repository contains a simple shell script (`simple-interest.sh`) that calcu
 ## Formula
 Simple Interest = (p*r*t)/100;
 Where:  
-- **P** = Principal amount  
-- **R** = Rate of interest
-- **T** = Time period  
+- P = Principal amount  
+- R = Rate of interest
+- T = Time period  
 
 ## How to Run
 ```bash
