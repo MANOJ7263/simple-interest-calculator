@@ -1,10 +1,3 @@
-
----
-
-## 📄 3. CODE_OF_CONDUCT.md  
-
-File name: `CODE_OF_CONDUCT.md`  
-
 ```markdown
 # Code of Conduct
 
